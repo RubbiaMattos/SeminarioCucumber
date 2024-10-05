@@ -159,8 +159,6 @@ Este arquivo implementa o comportamento de cada passo descrito no arquivo `login
 
 ## Integrantes da Equipe
 
-Grupo 8 - Teste de Aceitação
-
 - Nelson de Campos Nolasco
 - Rubia Coelho de Matos
 - Walter Roberto Rodrigues Louback
