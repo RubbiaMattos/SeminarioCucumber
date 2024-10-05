@@ -3,6 +3,7 @@
 Este projeto faz parte de um seminário sobre ferramentas de testes, focado no uso do **Cucumber** para realizar **Testes de Aceitação do Usuário (UAT)**. O Cucumber é uma ferramenta baseada em BDD (Behavior Driven Development) que permite criar testes automatizados escritos em uma linguagem compreensível tanto por desenvolvedores quanto por profissionais de negócio.
 
 ## Índice
+
 - [Objetivo](#objetivo)
 - [Ferramenta Utilizada](#ferramenta-utilizada)
 - [Configuração do Projeto](#configuração-do-projeto)
@@ -36,6 +37,7 @@ O objetivo deste projeto é demonstrar o uso do **Cucumber** para automatizar te
 ### Instalação
 
 1. Clone este repositório para sua máquina local:
+
    ```bash
    git clone https://github.com/RubbiaMattos/SeminarioCucumber.git
    ```
